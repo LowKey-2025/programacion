@@ -1,0 +1,166 @@
+{
+  "siguiente_reserva": 4,
+  "habitaciones": [
+    {
+      "numero": 101,
+      "piso": 1,
+      "capacidad": 2
+    },
+    {
+      "numero": 102,
+      "piso": 1,
+      "capacidad": 2
+    },
+    {
+      "numero": 103,
+      "piso": 1,
+      "capacidad": 4
+    },
+    {
+      "numero": 104,
+      "piso": 1,
+      "capacidad": 4
+    },
+    {
+      "numero": 105,
+      "piso": 1,
+      "capacidad": 6
+    },
+    {
+      "numero": 201,
+      "piso": 2,
+      "capacidad": 2
+    },
+    {
+      "numero": 202,
+      "piso": 2,
+      "capacidad": 2
+    },
+    {
+      "numero": 203,
+      "piso": 2,
+      "capacidad": 4
+    },
+    {
+      "numero": 204,
+      "piso": 2,
+      "capacidad": 4
+    },
+    {
+      "numero": 205,
+      "piso": 2,
+      "capacidad": 6
+    },
+    {
+      "numero": 301,
+      "piso": 3,
+      "capacidad": 2
+    },
+    {
+      "numero": 302,
+      "piso": 3,
+      "capacidad": 2
+    },
+    {
+      "numero": 303,
+      "piso": 3,
+      "capacidad": 4
+    },
+    {
+      "numero": 304,
+      "piso": 3,
+      "capacidad": 4
+    },
+    {
+      "numero": 305,
+      "piso": 3,
+      "capacidad": 6
+    },
+    {
+      "numero": 401,
+      "piso": 4,
+      "capacidad": 2
+    },
+    {
+      "numero": 402,
+      "piso": 4,
+      "capacidad": 2
+    },
+    {
+      "numero": 403,
+      "piso": 4,
+      "capacidad": 4
+    },
+    {
+      "numero": 404,
+      "piso": 4,
+      "capacidad": 4
+    },
+    {
+      "numero": 405,
+      "piso": 4,
+      "capacidad": 6
+    }
+  ],
+  "huespedes": [
+    {
+      "documento": "1116234567",
+      "nombre": "Ana Ruiz",
+      "telefono": "3104567890",
+      "correo": "ana.ruiz@correo.com"
+    },
+    {
+      "documento": "94368120",
+      "nombre": "Luis Mora",
+      "telefono": "3157654321",
+      "correo": "luis.mora@correo.com"
+    },
+    {
+      "documento": "31456789",
+      "nombre": "Marta Gil",
+      "telefono": "3209876543",
+      "correo": "marta.gil@correo.com"
+    },
+    {
+      "documento": "1094567321",
+      "nombre": "Jorge Díaz",
+      "telefono": "3112223344",
+      "correo": "jorge.diaz@correo.com"
+    },
+    {
+      "documento": "66987123",
+      "nombre": "Sofía Lara",
+      "telefono": "3185556677",
+      "correo": "sofia.lara@correo.com"
+    }
+  ],
+  "reservas": [
+    {
+      "codigo": "R0001",
+      "documento_huesped": "1116234567",
+      "numero_habitacion": 203,
+      "fecha_ingreso": "2026-10-20",
+      "dias": 3,
+      "personas": 2,
+      "estado": "ACTIVA"
+    },
+    {
+      "codigo": "R0002",
+      "documento_huesped": "94368120",
+      "numero_habitacion": 105,
+      "fecha_ingreso": "2026-10-12",
+      "dias": 4,
+      "personas": 5,
+      "estado": "ACTIVA"
+    },
+    {
+      "codigo": "R0003",
+      "documento_huesped": "1116234567",
+      "numero_habitacion": 301,
+      "fecha_ingreso": "2026-10-18",
+      "dias": 2,
+      "personas": 1,
+      "estado": "CANCELADA"
+    }
+  ]
+}
